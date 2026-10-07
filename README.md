@@ -16,7 +16,7 @@ A curated collection of high-resolution desktop wallpapers featuring nature, lan
 ## Repository Structure
 
 Wallpapers are stored at the root of the repository:
-- Numbered wallpapers (`0001.jpg` – `0300.jpg`) from the initial curated desktop pack.
+- Curated desktop wallpapers named with descriptive slugs (`<descriptive-slug>.jpg`).
 - Artist-named wallpapers (`<artist-name>.jpg` / `.webp`) from community and browser artwork releases.
 - Space imagery (`STScI-*.png`) from public space telescope archives.
 
